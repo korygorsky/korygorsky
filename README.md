@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a builder 🏗.
+
+I love to take an idea, flesh out concepts and make it happen in the real world 🌎.
+
+I believe the most powerful tools that a team can have are communication ☎️ and focus 🔎.
+
+The web is a green field ripe for new growth ☘️ and I'm just happy I get to be a part of it 🎉. 
+
 <!--
 **korygorsky/korygorsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
